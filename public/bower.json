@@ -1,0 +1,16 @@
+{
+  "name": "dwes52",
+  "description": "Paquetes del frontend para el proyecto dwes",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Pedro Hdez-Mora de Fuentes"
+  ],
+  "license": "MIT",
+  "homepage": "dwes52",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
